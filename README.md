@@ -1,8 +1,7 @@
-# CODSOFT
-Python Internship Project Portfolio
+# CODSOFT 
 Welcome to my Python Internship Project Portfolio! In this repository, you will find a collection of projects that I have developed during my internship, showcasing my skills and proficiency in Python programming. Each project serves as a demonstration of various concepts, techniques, and problem-solving abilities I have acquired through this internship.
 
-Projects
+# Projects
 1. Calculator
 The Calculator project is a command-line application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It is built using Python's fundamental concepts and demonstrates my understanding of user input handling, conditional statements, and modular programming.
 
